@@ -1,7 +1,9 @@
-
-
-#header{
+#header {
   width: 100%;
+}
+
+.card-img-top {
+  width: 10px;
 }
 
 nav li img {
@@ -9,12 +11,11 @@ nav li img {
   width: 100%;
 }
 
-.container-fluid{
+.container-fluid {
   padding: 0;
-
 }
 
-*{
+* {
   margin: 0;
   border: 0;
   padding: -10px;
@@ -66,8 +67,8 @@ li {
   margin-right: auto;
   border-style: inset;
   border-width: 1px;
-  color: #5AC8EC;
-  background: #5AC8EC;
+  color: #5ac8ec;
+  background: #5ac8ec;
 }
 h4 {
   display: block;
@@ -88,19 +89,19 @@ h4 {
 .icon1 {
   text-align: center;
   color: white;
-  background-color: #5AC8EC;
+  background-color: #5ac8ec;
   margin-bottom: 10px;
 }
 .icon2 {
   text-align: center;
   color: white;
-  background-color: #5AC8EC;
+  background-color: #5ac8ec;
   margin-top: 10px;
   margin-bottom: 50px;
 }
 .card {
   margin: 0 20px;
-  background-color: #5AC8EC;
+  background-color: #5ac8ec;
 }
 .card-group {
   border: 1px black;
@@ -164,7 +165,7 @@ div div div ul li {
   height: 50px;
   list-style: none;
   margin-top: 20px;
-  background-color: #5AC8EC;
+  background-color: #5ac8ec;
 }
 .flex-item li i {
   float: right;
@@ -206,7 +207,7 @@ div div div ul li {
   }
 }
 
-.about{
+.about {
   background-color: darkmagenta;
-color: deeppink;
+  color: deeppink;
 }
