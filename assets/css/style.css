@@ -1,7 +1,18 @@
+.carousel-img-size {
+  height: 100vh;
+}
+
+
+
+
+
+
+
+
+
 body {
   font-family: 'Raleway', sans-serif;
 }
-
 header {
   background-image: url('../img/bg-hero.jpg');
   background-repeat: no-repeat;
@@ -10,22 +21,14 @@ header {
   padding-bottom: 10rem;
 }
 
-.carousel-indicators {
-  top: 50px;
-}
-
 .carousel-indicators li {
   width: 10px;
   height: 10px;
   border-radius: 50%;
 }
-
-
-
 body {
   font-family: 'Raleway', sans-serif;
 }
-
 header {
   background-image: url('../img/bg-hero.jpg');
   background-repeat: no-repeat;
@@ -33,21 +36,17 @@ header {
   background-position: left;
   padding-bottom: 10rem;
 }
-
 .carousel-indicators {
   top: 50px;
 }
-
 .carousel-indicators li {
   width: 10px;
   height: 10px;
   border-radius: 50%;
 }
-
 .card-img-top{
   height: 200px;
 }
-
 .mb-3{
   justify-content:baseline;
 }
